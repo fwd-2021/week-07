@@ -14,6 +14,12 @@ html {
   line-height: 28px;
 }
 
+h1,
+h2,
+h3,
+p {
+  padding-bottom: 28px;
+}
 
 
 
