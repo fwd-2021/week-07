@@ -18,7 +18,7 @@ h1,
 h2,
 h3,
 p {
-  padding-bottom: 28px;
+  padding-bottom: 14px;
 }
 
 
@@ -29,7 +29,7 @@ p {
 .g body { position: relative; }
 
 .g body::after {
-  background: url('data:image/svg+xml;utf8,<svg height="28" width="1" xmlns="http://www.w3.org/2000/svg"><rect width="1" height="0.5" style="fill:rgba(255, 0, 0, 0.3)" /></svg>') repeat top left;
+  background: url('data:image/svg+xml;utf8,<svg height="14" width="1" xmlns="http://www.w3.org/2000/svg"><rect width="1" height="0.5" style="fill:rgba(255, 0, 0, 0.3)" /></svg>') repeat top left;
   content: "";
   display: block;
   pointer-events: none;
